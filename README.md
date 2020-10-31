@@ -4,4 +4,4 @@ I am a 22-year-old amateur web developer, currently studying Computer Systems En
 
 **Check out my web portfolio:** [Leonel Aguirre's Web Portfolio](https://noisyapple.github.io)
 
-<p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=milkyblue398&width=500" align="center"></p>
+<p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=milkyblue398&width=1000" align="center"></p>
